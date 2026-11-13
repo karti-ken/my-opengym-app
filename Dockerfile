@@ -1,1 +1,1 @@
-FROM ghcr.io/duartesantos8/opengym:latest
+FROM amitdas4321/opengym:latest
